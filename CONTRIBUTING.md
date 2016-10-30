@@ -9,7 +9,7 @@ See the [Formula Cookbook][cookbook]. Reading existing formulae might help; see
 e.g. [`grunt-completion.rb`][grunt], [`rake-completion.rb`][rake] or
 [`docker-machine-completion.rb`][docker-machine].
 
-[cookbook]: https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/Formula-Cookbook.md
+[cookbook]: https://github.com/Homebrew/brew/blob/master/docs/Formula-Cookbook.md
 [grunt]: https://github.com/Homebrew/homebrew-completions/blob/d7ef214fa291be04e4560886e3d05d7246ef9263/grunt-completion.rb
 [rake]: https://github.com/Homebrew/homebrew-completions/blob/d7ef214fa291be04e4560886e3d05d7246ef9263/rake-completion.rb
 [docker-machine]: https://github.com/Homebrew/homebrew-completions/blob/9fb2be4a5c2711a005a114ae3aaea66504193201/docker-machine-completion.rb
